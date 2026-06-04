@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Mac system files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Data files (optional — add if data is private/sensitive)
+# marketing_campaign.csv
+
+# Output files
+*.png
+*.pdf
+outputs/
